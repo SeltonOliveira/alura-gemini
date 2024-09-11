@@ -1,5 +1,3 @@
-## Criando um README.md Descontraído para o seu Pokédex
-
 **## Pokédex Simples: Capture seus Pokémons favoritos!**
 
 **O que é isso?**
