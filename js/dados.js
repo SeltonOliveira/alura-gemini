@@ -1,4 +1,5 @@
 let dados = [{
+    id : '0001',
     nome : 'Bulbasaur',
     tipo : 'Grama e Veneno',
     fraqueza : 'Fogo, Gelo e Psíquico',
@@ -7,6 +8,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/bulbasaur'
 },
 {
+    id : '0002',
     nome : 'Charmander',
     tipo : 'Fogo',
     fraqueza: 'Água e Pedra',
@@ -15,6 +17,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/charmander'
 },
 {
+    id : '0003',
     nome : 'Squirtle',
     tipo : 'Água',
     fraqueza: 'Grama e Eletricidade',
@@ -23,6 +26,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/squirtle'
 },
 {
+    id : '0004',
     nome : 'Pikachu',
     tipo : 'Elétrico',
     fraqueza: 'Ground',
@@ -31,6 +35,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/pikachu'
 },
 {
+    id : '0005',
     nome : 'Psyduck',
     tipo : 'Água',
     fraqueza: 'Grama e Eletricidade',
@@ -39,6 +44,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/psyduck'
 },
 {
+    id : '0006',
     nome : 'Cubone',
     tipo : 'Ground',
     fraqueza: 'Água, Grama e Gelo',
@@ -47,6 +53,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/cubone'
 },
 {
+    id : '0007',
     nome : 'Mew',
     tipo : 'Psíquico',
     fraqueza: 'Fantasma e Escuridão',
@@ -55,6 +62,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/mew'
 },
 {
+    id : '0008',
     nome : 'Mewtwo',
     tipo : 'Psíquico',
     fraqueza: 'Fantasma e Escuridão',
@@ -63,6 +71,7 @@ let dados = [{
     link : 'https://www.pokemon.com/br/pokedex/mewtwo'
 },
 {
+    id : '0009',
     nome : 'Togepi',
     tipo : 'Fada',
     fraqueza: 'Veneno e Aço',
