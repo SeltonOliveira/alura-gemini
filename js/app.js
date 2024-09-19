@@ -28,7 +28,7 @@ function pesquisar() {
       // Cria um novo elemento div para cada resultado
       resultados += `
         <div class="item-resultado">
-          <img src="${dado.imagem}" alt="Foto Bulbasaur" width="200">
+          <img src="${dado.imagem}" alt="Pokemons" width="200">
           <div class="itens-result">
             <h2>
               <a href="#" target="_blank">${dado.nome}</a>

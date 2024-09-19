@@ -23,7 +23,8 @@ let dados = [{
     fraqueza: 'Grama e Eletricidade',
     descricao : 'Após o nascimento, suas costas incha e endurece formando uma concha. Ele espalha uma espuma potente pela boca.',
     imagem : 'https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png',
-    link : 'https://www.pokemon.com/br/pokedex/squirtle'
+    link : 'https://www.pokemon.com/br/pokedex/squirtle',
+    tag : 'agua'
 },
 {
     id : '0004',
